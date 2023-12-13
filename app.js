@@ -1,10 +1,3 @@
-// 1. start = 3분 * 60초
-// const time = document.querySelector("time") * 60;
-//const minutes = Math.floor(time / 60);
-//const seconds = time % 60;
-//console.log(time, minutes);
-
-/////////////
 const startMinutes = 10;
 let time = startMinutes * 60;
 
