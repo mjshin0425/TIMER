@@ -10,16 +10,18 @@ body {
   padding-top: 30px;
 }
 
-.container {
-  box-shadow: inset 0 0 10px orange;
+p {
+  box-shadow: inset 0 0 30px rgb(243, 192, 73);
   width: 100%;
-  max-width: 400px;
-  height: 100vh;
+  max-width: 300px;
+  height: 100px;
   display: flex;
   justify-content: center;
   padding-top: 30px;
 
   font-family: "Courier New", Courier, monospace;
-  font-size: 24px;
+  font-size: 50px;
   font-weight: 800;
+  background-color: rgb(235, 61, 61);
+  color: rgb(247, 222, 81);
 }
